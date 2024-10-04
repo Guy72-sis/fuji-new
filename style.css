@@ -884,6 +884,21 @@ text-align: center;
     font-size: 1em;
 }
 
+    .témoignage{
+background-image: url(./mountain-477832.jpg);
+background-size: cover;
+width: 200%;
+}
+
+.témoignage .conte{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 40px;
+width: 200%;
+flex-direction: row;
+}
+
 .contact p{
 text-align: center;
 font-size: 1em;
