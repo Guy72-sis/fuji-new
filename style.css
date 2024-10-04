@@ -869,7 +869,7 @@ text-align: center;
 }
 
 .contactform{
-    margin-right: 150px;
+    margin-left: 50px;
     
 }
 
@@ -887,5 +887,13 @@ text-align: center;
 .contact p{
 text-align: center;
 font-size: 1em;
+}
+
+    .contact{
+background-image: url(mountain-477832.jpg);
+background-size: cover;
+box-shadow: 2px 2px 12px rgba(0,0,0,0.8);
+width: 200%;
+background-position: unset;
 }
 
