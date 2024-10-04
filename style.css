@@ -23,7 +23,7 @@ display: flex;
 justify-content:space-evenly;
 align-items: center;
 transition: 0.5s;
-}
+} 
 
 .logo{
 color:#FFF;
@@ -233,7 +233,6 @@ margin: 10;
 
 .nouve{
 margin-top: 100px;
-background-color:rgb(37, 162, 245); 
 }
 
 
