@@ -757,7 +757,7 @@ text-align: center;
 }
 
 
-@media (max-width: 780px){
+@media (max-width: 480px){
 .banniere .conte h2{
     font-size: 2em;
     color: #FFF;
@@ -769,7 +769,7 @@ text-align: center;
 .banniere{
     position: relative;
     width: 100%;
-    min-height: 100vh;
+    min-height: 200vh;
     display: flex;
     justify-content: center;
     align-items: center;
