@@ -768,8 +768,8 @@ text-align: center;
 
 .banniere{
     position: relative;
-    width: 100%;
-    min-height: 50vh;
+    width: 200%;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
