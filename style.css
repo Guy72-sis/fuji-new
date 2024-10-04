@@ -831,8 +831,8 @@ text-align: center;
         position: relative;
         top: 0px;
         left: -30px;
-        width: 100%;
-        height: 600px;
+        width: 200%;
+        height: 400px;
         object-fit: cover;
         margin-top: 30px;
         }
