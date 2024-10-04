@@ -571,7 +571,7 @@ display: none;
 .banniere{
 position: relative;
 width: 100%;
-min-height: 50vh;
+min-height: 100vh;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -769,7 +769,7 @@ text-align: center;
 .banniere{
     position: relative;
     width: 200%;
-    min-height: 100vh;
+    min-height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -869,7 +869,7 @@ text-align: center;
 }
 
 .contactform{
-    margin-left: 50px;
+    margin-right: 150px;
 }
 
 .expert p{
