@@ -769,7 +769,7 @@ text-align: center;
 .banniere{
     position: relative;
     width: 100%;
-    min-height: 30vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -800,8 +800,8 @@ text-align: center;
 
 .row .col50 img{
     margin-left: 30px;
-    height: 310px;
-    width: 340px;
+    height: 410px;
+    width: 440px;
     position: relative;
     box-shadow: 0 10px 20px rgba(0,0,0,0.3);
 }
